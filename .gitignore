@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories
+.venv/
+venv/
+env/
+
+# Local tooling and caches
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.idea/
+.vscode/
+
+# Temporary and test artifacts
+temp/
+test_docs/
+
+# Generated PDFs or images
+*.pdf
+*.png
+
+# Miscellaneous
+.DS_Store
+
